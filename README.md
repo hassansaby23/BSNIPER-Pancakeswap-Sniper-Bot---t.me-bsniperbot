@@ -15,18 +15,31 @@ Here's a 1 Day Free Trial Of Our BSNIPER Pancakeswap Sniper Bot
 ## Features
 
 -Liquidity detection
+
 -Auto buy from Telegram
+
 -Anti Bot
+
 -Auto Sell with a target balance after Buy
+
 -Stop Loss
+
 -Optimized slippage and GWEI
+
 -Advanced buy and sell options
+
 -Pre-approve token
+
 -Auto sell
+
 -You can buy now with BUSD
+
 -BUSD LIQUIDITY POOL
+
 -Minimum Tokens Received
+
 -HTTP, WSS and WS Node Support
+
 -Comes with PDF, easy to set up.
 
 ## Networks And DEXs
