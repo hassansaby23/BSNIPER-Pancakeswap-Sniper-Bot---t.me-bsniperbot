@@ -44,7 +44,7 @@ Here's a 1 Day Free Trial Of Our BSNIPER Pancakeswap Sniper Bot
 
 ## Networks And DEXs
 
-The following DEXs are available in the full version: 
+The following Networks and DEXs are available in the full version: 
 
 BSC Network - Pancakeswap
 
