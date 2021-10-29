@@ -1,0 +1,26 @@
+{
+    "NODE": "https://bsc-dataseed.binance.org/", 
+
+    "WALLET ADDRESS": "YOUR WALLET ADDRESS", 
+    "PRIVATE KEY": "YOUR PRIVATE KEY",
+
+    "LIQUIDITY POOL": "BNB",
+    "SLIPPAGE": "100",
+
+    "SELL MODE": "false",
+    "AMOUNT IN BNB": "0.01",
+    "SELL AT BNB": "0.1",
+    "STOP LOSS IN BNB": "0",
+
+    "AMOUNT IN BUSD": "25",
+    "SELL AT BUSD": "1000",
+    "STOP LOSS IN BUSD":"0",
+
+    "ANTI BOT": "false",
+    "DELAY BLOCKS": "1",
+
+    "MIN LIQUIDITY": "2",
+    "MAX LIQUIDITY": "60000000000",
+    "GAS PRICE": "6", 
+    "GAS LIMIT": "2000000"      
+}
