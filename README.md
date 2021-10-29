@@ -44,4 +44,6 @@ MATIC Network - Quickswap
 FANTOM Network - Spookyswap
 ## Telegram
 
-If you have any questions or inquiries, or want the full version of this bot, you can contact my support via Telegram:  [@AdamSabhi](https://t.me/AdamSabhi)  or  [@hassansabhi](https://t.me/hassansabhi).  Also check out the website:  [www.bsniperbot.com](http://www.bsniperbot.com/).
+If you have any questions or inquiries, or want the full version of this bot, you can contact us via Telegram:  [@AdamSabhi](https://t.me/AdamSabhi)  or  [@hassansabhi](https://t.me/hassansabhi).  Also check out the website:  [www.bsniperbot.com](http://www.bsniperbot.com/).
+
+And this is our Telegram group: [@BSNIPERBOT](https://t.me/BSNIPERBOT)
