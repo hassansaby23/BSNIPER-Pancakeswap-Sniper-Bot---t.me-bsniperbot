@@ -7,11 +7,6 @@ With BSNIPER Bot you will buy new coins much faster than others. You can make X1
 
 Limited licenses! Get it while it's still available.
 
-# BSNIPER Sniper Bots 1 Day Free Trial
-
-Here's a 1 Day Free Trial Of Our BSNIPER Pancakeswap Sniper Bot 
- !!!
-
 ## Features
 
 -Liquidity detection
